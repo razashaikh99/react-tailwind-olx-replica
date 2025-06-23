@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Tenor+Sans&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --color-navbar: #EBF1FF;
+  --color-light-gray: #406367;
+  --color-gray: #002F34;
+  --color-button-border: #FFCE32;
+  --color-blue: #3A77FF;
+  --color-cate-bg: #F2F4F5;
+  --color-head-footer: #F7F8F9;
+  --color-bg-footer: #F2F4F5;
+}
