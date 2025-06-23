@@ -1,12 +1,40 @@
-# React + Vite
+# 🛒 OLX Pakistan Replica
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a responsive **OLX Pakistan clone** built using **React (with Vite)**, **Tailwind CSS**, and **React Icons**. It mimics the core UI of [OLX Pakistan](https://www.olx.com.pk/) and is designed for practice and portfolio purposes.
 
-Currently, two official plugins are available:
+> ⚡ Live Demo: [react-tailwind-olx-replica.vercel.app](https://react-tailwind-olx-replica.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 📸 Screenshots
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+| Home Page | Categories | Footer |
+
+---
+
+## 🚀 Features
+
+- ✅ Clean and responsive UI
+- ✅ Tailwind CSS-based styling
+- ✅ Modular React components
+- ✅ Reusable category cards, navbar, and footer
+- ✅ Icons from React Icons
+- ✅ Optimized for desktop and mobile screens
+
+---
+
+## 🧰 Tech Stack
+
+| Tool | Description |
+|------|-------------|
+| [React](https://reactjs.org/) | Frontend library |
+| [Vite](https://vitejs.dev/) | Fast build tool |
+| [Tailwind CSS](https://tailwindcss.com/) | Utility-first CSS framework |
+| [React Icons](https://react-icons.github.io/react-icons/) | Icon pack for React |
+
+---
+
+## 📁 Folder Structure
+
+![image](https://github.com/user-attachments/assets/cc6626db-7615-425c-b2bf-4b988b574fc5)
+
