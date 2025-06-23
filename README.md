@@ -6,12 +6,6 @@ This is a responsive **OLX Pakistan clone** built using **React (with Vite)**, *
 
 ---
 
-## 📸 Screenshots
-
-| Home Page | Categories | Footer |
-
----
-
 ## 🚀 Features
 
 - ✅ Clean and responsive UI
